@@ -1,0 +1,148 @@
+.dk{
+font-family: "proxima-nova";
+font-size: 1rem;
+line-height: 2;
+color: #1b1b1b;
+font-weight: 300;
+box-sizing: inherit;
+display: block;
+}
+.first{
+    font-family: "proxima-nova";
+    font-size: 1rem;
+    line-height: 2;
+    color: #1b1b1b;
+    font-weight: 300;
+    box-sizing: inherit;
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 10;
+    transform: translateZ(0);
+    height: 100vh;
+    background: transparent;
+}
+.first1{
+    font-family: "proxima-nova";
+font-size: 1rem;
+color: #1b1b1b;
+font-weight: 300;
+box-sizing: inherit;
+margin-left: auto;
+max-width: 1140px;
+padding-left: 1.875rem;
+padding-right: 1.875rem;
+line-height: 0;
+text-align: left;
+width: 50rem;
+margin-right: 0;
+
+}
+.first2{
+    font-family: "proxima-nova";
+    font-size: 1rem;
+    color: #1b1b1b;
+    font-weight: 300;
+    line-height: 0;
+    text-align: left;
+    box-sizing: inherit;
+    width: auto;
+    margin: 0 auto 1rem;
+    display: inline-block;
+    margin-bottom: 0;
+}
+.first3{
+    font-family: "proxima-nova";
+    font-size: 1rem;
+    font-weight: 300;
+    box-sizing: inherit;
+    background-color: transparent;
+    color: #444;
+    text-decoration: none;
+    touch-action: manipulation;
+    transition: all 0.2s ease-in-out 0s;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 95vh;
+    text-align: left;
+    filter: invert(100%);
+    width: 450px;
+    height: 250px;
+    transform: translateY(-5rem);
+}
+.first4{
+    font-family: "proxima-nova";
+    font-size: 1rem;
+    font-weight: 300;
+    color: #444;
+    line-height: 95vh;
+    text-align: left;
+    box-sizing: inherit;
+    border: 0;
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+    display: inline-block;
+}
+.navbar{
+color: #1b1b1b;
+box-sizing: inherit;
+font-family: "proxima-nova";
+font-weight: 300;
+text-transform: uppercase;
+letter-spacing: 1px;
+text-align: center;
+font-size: .9rem;
+position: relative;
+z-index: 1;
+vertical-align: middle;
+line-height: 2;
+display: flex;
+transform: none !important;
+}
+.navbar1{
+color: #1b1b1b;
+font-family: "proxima-nova";
+font-weight: 300;
+text-transform: uppercase;
+letter-spacing: 1px;
+text-align: center;
+font-size: .9rem;
+line-height: 2;
+box-sizing: inherit;
+margin-top: 0;
+margin-bottom: 0;
+padding-left: 0;
+list-style: none;
+display: flex;
+}
+.navbar1 li{
+    margin: 20px;
+
+}
+.navbar2{
+   
+color: white;
+font-family: "proxima-nova";
+font-weight: 300;
+text-transform: uppercase;
+letter-spacing: 1px;
+font-size: .9rem;
+line-height: 2;
+list-style: none;
+box-sizing: inherit; 
+text-decoration: none;
+display: inline-block;
+}
+.second3{
+    height: 100px;
+}
+.second5{
+    height: 80em;
+}
